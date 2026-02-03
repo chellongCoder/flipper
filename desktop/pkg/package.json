@@ -24,7 +24,7 @@
     "flipper-plugin-lib": "0.0.0",
     "fs-extra": "^11.1.1",
     "inquirer": "^8.2.4",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "recursive-readdir": "^2.2.3"
   },
   "devDependencies": {
